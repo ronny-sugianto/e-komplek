@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23010087469",
+    "firebase_url": "https://e-komplek.firebaseio.com",
+    "project_id": "e-komplek",
+    "storage_bucket": "e-komplek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23010087469:android:37b661defb9c1fbde29ea4",
+        "android_client_info": {
+          "package_name": "id.gakudev.ekomplek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23010087469-thk0o9oqa3b744niuet2ke12s38th2ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.gakudev.ekomplek",
+            "certificate_hash": "35221051f2d7556a39f75f629f1e335c53974d1e"
+          }
+        },
+        {
+          "client_id": "23010087469-rmjbhn12r1vmc9mk3sf4q7c6142ld60q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4scSljdzObIEdo9aE5lH2bRbcEfl9qoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23010087469-rmjbhn12r1vmc9mk3sf4q7c6142ld60q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
